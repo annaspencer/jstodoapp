@@ -1,0 +1,60 @@
+header {
+    text-align: center;
+    color: rgb(236, 139, 196);
+    font-family: 'Fredoka One', cursive;
+    
+
+    
+}
+
+body {
+    background-image: url(images/galaxy-2643089_1920.jpg);
+text-align: center;
+font-family: 'MuseoModerno', cursive;
+
+
+}
+
+form button {
+    background-color: aqua;
+}
+
+li {
+ padding-top: 2rem;
+ list-style: inside circle;
+ font-family: 'MuseoModerno', cursive;
+ color: rgb(212, 247, 18);
+ font-size: large;
+ font-weight: bolder;
+
+}
+
+li button {
+    color: pink;
+    background-color: purple;
+    font-family: 'MuseoModerno', cursive;
+    margin-left: 30px;
+}
+
+input[type="submit" i] {
+    margin-top: 50px;
+    color: whitesmoke;
+    background-color: rgb(8, 8, 75);
+    font-family:'MuseoModerno', cursive;
+}
+
+
+
+
+ #clear-button {
+    margin-top: 50px;
+    color: whitesmoke;
+    background-color: rgb(8, 8, 75);
+    font-family:'MuseoModerno', cursive;
+
+}
+footer {
+ text-align: left;
+ padding-top: 20rem;
+ color: grey;
+}
